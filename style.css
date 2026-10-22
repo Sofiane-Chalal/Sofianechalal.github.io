@@ -1,10 +1,10 @@
 :root {
   color-scheme: dark;
-  --background: #181c20;
+  --background: #0f1e37;
   --ink: #ece7df;
-  --muted: #b0b8c1;
-  --blue: #90c2ef;
-  --line: #38424c;
+  --muted: #b4c1d5;
+  --blue: #9dc9f5;
+  --line: #354865;
 }
 
 :root[data-theme="light"] {
